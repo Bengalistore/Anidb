@@ -10,7 +10,7 @@ const DAYS_BN = {
   Thursday: 'বৃহস্পতিবার',
   Friday: 'শুক্রবার',
   Saturday: 'শনিবার',
-  Sunday,
+  Sunday: 'Sunday',
 }
 
 const DAY_ORDER = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
