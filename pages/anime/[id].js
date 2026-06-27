@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import Navbar from '../components/Navbar'
-import Footer from '../components/Footer'
+import Navbar from '../../components/Navbar'
+import Footer from '../../components/Footer'
 import Countdown from '../../components/Countdown'
 
 export default function AnimeDetail({ anime, characters }) {
